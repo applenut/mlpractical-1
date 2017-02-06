@@ -12,5 +12,5 @@ from the right place.
 
 Also `run_gcloud.sh` and `run_local.sh` should help get you started.
 
-_Disclaimer_: This is meant as a starting point for anyone doing the MLPR course
+_Disclaimer_: This is meant as a starting point for anyone doing the MLP course
 to run training on Google Cloud. I am not responsible for anything you do with it!
